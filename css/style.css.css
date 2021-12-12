@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Patrick+Hand&family=Praise&family=Road+Rage&display=swap');
+
+* {
+    font-family: 'Indie Flower', cursive;;
+    font-weight: 900;
+}
+
+
+.card-custom {
+    background-color: #ff9f1c;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+}
+
+.card-custom h5 {
+    color: #426a5a;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    font-family: 'Patrick Hand', cursive;
+} 
+
+.card-custom p {
+    color: #e71d36;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 21px;    
+    font-family:'Praise', cursive;
+} 
+
+//paleta de cores https://coolors.co/011627-fdfffc-426a5a-e71d36-ff9f1c
